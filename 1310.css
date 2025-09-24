@@ -1,0 +1,26 @@
+.main-container{
+    /* display: flex; */
+    border: 1px solid black;
+    /* justify-content: space-between; */
+    width: 750px;
+    border-radius: 7px;
+}
+.first-container, .second-container{
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 7px;
+}
+.item-container{
+    border: 1px solid black;
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
